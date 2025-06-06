@@ -1,4 +1,4 @@
-# Capacitacao-ia-e-iot
+# Capacitação em IA e IoT
 
 Alguns códigos construidos na capacitação de IA e IoT da Softex em colaboração com o Assert.
 
